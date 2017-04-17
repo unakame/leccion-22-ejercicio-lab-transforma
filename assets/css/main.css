@@ -3,14 +3,12 @@
   height: 80px;
   -webkit-box-sizing: border-box;
   /*display: block;*/
-
 }
 .texto{
   margin-left: 10px;
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
 }
-
 #box1,
 #box3
 {
